@@ -7,4 +7,4 @@
 * Teleportation script toegevoegd aan de eilandjes
 
 ## Video van opdracht
-> https://youtu.be/BCpZdsdGzfg
+> https://youtu.be/_AZs7_Btvx0
